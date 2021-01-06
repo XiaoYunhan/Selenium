@@ -1,0 +1,21 @@
+[14529:14529:0613/234238.201718:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14492:14492:0613/234241.002519:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.6.1. Powered by jinkela-core 2.5.4.
+         \/            \/ color:#00a1d6", source: https://s1.hdslb.com/bfs/static/jinkela/space/space.48a928bf5668df92e2d1b572fc7ba1f3a769cbb1.js (1)
+[14492:14492:0613/234241.451247:INFO:CONSOLE(2)] "单条获取用户被关注关系失败，账号未登录", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.2.1.min.js (2)
+[14492:14492:0613/234241.517388:INFO:CONSOLE(2)] "单条获取用户关系失败，账号未登录", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.2.1.min.js (2)
+[14492:14492:0613/234241.846242:INFO:CONSOLE(2)] "单条获取用户关系失败，账号未登录", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.2.1.min.js (2)
+[14492:14492:0613/234241.915602:INFO:CONSOLE(0)] "Uncaught (in promise) undefined", source: https://space.bilibili.com/92662210/fans/follow (0)
+[14492:14492:0613/234247.839015:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
